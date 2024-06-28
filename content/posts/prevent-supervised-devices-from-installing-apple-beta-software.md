@@ -1,0 +1,32 @@
+---
+title: "Prevent Supervised Devices From Installing Apple Beta Software Using Intune"
+date: 2023-07-08T11:50:27"
+draft: false
+tags: []
+---
+
+<p>Apple introduced several highly anticipated device management features this year, including the much-awaited "<em><u>Platform SSO</u></em>." This news has generated significant enthusiasm among MDM solution users, as they eagerly await the opportunity to try out these new features and provide valuable feedback. However, it is crucial to remember that beta releases are primarily intended for non-production devices and can potentially introduce stability and compatibility issues. To ensure a secure and stable environment, it is essential to prevent supervised devices, especially those managed in educational or corporate settings, from installing Apple beta software. </p>
+<p>One approach is to utilize restriction profiles, which can be created and deployed through Microsoft Intune. These profiles allow administrators to specify restrictions, such as disabling the installation of beta software or preventing access to the beta software installation section in device settings. By applying these profiles, organizations can ensure that supervised devices adhere to the established guidelines and remain free from potential issues associated with beta software.</p>
+<p>Another option is to leverage Apple Configurator, a powerful tool available on macOS. By connecting supervised devices to a Mac computer running Apple Configurator, administrators can create configuration profiles with specific restrictions to prevent the installation of beta software. These profiles can disable automatic software updates, block access to beta software installation, and enforce other necessary restrictions.</p>
+<p>Additionally, you can also create custom configuration profiles tailored to your specific requirements. This allows for granular control over device settings and restrictions, providing a comprehensive solution for preventing the installation of Apple beta software on supervised devices.</p>
+<p>For simplicity, I will guide you through the most effective method to prevent the installation of Apple beta software on supervised devices i.e. restriction using Microsoft Intune, helping you maintain a secure and reliable device management environment.</p>
+<hr>
+<h2 id="device-restrictions-using-microsoft-intune">Device Restrictions using Microsoft Intune</h2>
+<ol><li>Sign in to the <a href="https://go.microsoft.com/fwlink/?linkid=2109431">Microsoft Intune admin center</a>.</li><li>Select <strong>Devices</strong> &gt; <strong>iOS/iPadOS Devices</strong> &gt; <strong>Create profile</strong> &gt; <strong>Select Profile Type</strong> &gt; <strong>Settings Catalog &gt; Create</strong></li></ol>
+<figure class="kg-card kg-image-card"><img src="__GHOST_URL__/content/images/2023/07/image.png" class="kg-image" alt="" loading="lazy" width="1674" height="284" srcset="__GHOST_URL__/content/images/size/w600/2023/07/image.png 600w, __GHOST_URL__/content/images/size/w1000/2023/07/image.png 1000w, __GHOST_URL__/content/images/size/w1600/2023/07/image.png 1600w, __GHOST_URL__/content/images/2023/07/image.png 1674w" sizes="(min-width: 720px) 720px"></figure>
+<ol start="3"><li>Provide the name &amp; description for the profile<br></li></ol>
+<figure class="kg-card kg-image-card"><img src="__GHOST_URL__/content/images/2023/07/image-1.png" class="kg-image" alt="" loading="lazy" width="815" height="391" srcset="__GHOST_URL__/content/images/size/w600/2023/07/image-1.png 600w, __GHOST_URL__/content/images/2023/07/image-1.png 815w" sizes="(min-width: 720px) 720px"></figure>
+<ol start="4"><li>In <strong>Configuration settings</strong>, select <strong>Add settings</strong>. In the settings picker, search for "<em><u>allowUIConfigurationProfileInstallation</u></em>".</li></ol>
+<figure class="kg-card kg-image-card"><img src="__GHOST_URL__/content/images/2023/07/image-2.png" class="kg-image" alt="" loading="lazy" width="1690" height="664" srcset="__GHOST_URL__/content/images/size/w600/2023/07/image-2.png 600w, __GHOST_URL__/content/images/size/w1000/2023/07/image-2.png 1000w, __GHOST_URL__/content/images/size/w1600/2023/07/image-2.png 1600w, __GHOST_URL__/content/images/2023/07/image-2.png 1690w" sizes="(min-width: 720px) 720px"></figure>
+<ol start="5"><li>After you add this setting, close the settings picker and then toggle the switch to <strong>False</strong>. </li></ol>
+<figure class="kg-card kg-image-card"><img src="__GHOST_URL__/content/images/2023/07/image-3.png" class="kg-image" alt="" loading="lazy" width="802" height="454" srcset="__GHOST_URL__/content/images/size/w600/2023/07/image-3.png 600w, __GHOST_URL__/content/images/2023/07/image-3.png 802w" sizes="(min-width: 720px) 720px"></figure>
+<ol start="6"><li>Assign the profile to the required user group.</li></ol>
+<p>When you set this restriction, users can't install profiles from email messages or websites. This includes the profile that enrolls the device in the iOS Beta Software Program. It also prevents users from enabling beta updates in Settings.</p>
+<hr>
+<h2 id="restrictions-at-end-user-level">Restrictions At End-User Level</h2>
+<figure class="kg-card kg-image-card"><img src="__GHOST_URL__/content/images/2023/07/Screenshot-2023-07-08-154320-1.png" class="kg-image" alt="" loading="lazy" width="1039" height="838" srcset="__GHOST_URL__/content/images/size/w600/2023/07/Screenshot-2023-07-08-154320-1.png 600w, __GHOST_URL__/content/images/size/w1000/2023/07/Screenshot-2023-07-08-154320-1.png 1000w, __GHOST_URL__/content/images/2023/07/Screenshot-2023-07-08-154320-1.png 1039w" sizes="(min-width: 720px) 720px"></figure>
+
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Preventing supervised devices from installing Apple beta software is crucial to maintain stability, security, and compatibility within educational or corporate environments. By establishing clear policies, leveraging device management solutions, and utilizing configuration profiles, you can effectively restrict beta software installations on supervised devices. Regular communication, policy enforcement, and staying updated with the latest MDM features will help you create a controlled and secure ecosystem for your organization's devices.</p>
+<p></p>
