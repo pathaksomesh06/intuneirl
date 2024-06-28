@@ -2,1098 +2,1098 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost/</link>
     <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Somesh Pathak</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Say Bye Felicia to Passwords: Secure Enclave Takes Mac SSO to the Next Level</title>
-      <link>http://localhost:1313/posts/say-bye-felicia-to-passwords-secure-enclave-takes-mac-sso-to-the-next-level/</link>
+      <link>http://localhost/posts/say-bye-felicia-to-passwords-secure-enclave-takes-mac-sso-to-the-next-level/</link>
       <pubDate>Fri, 28 Jun 2024 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/say-bye-felicia-to-passwords-secure-enclave-takes-mac-sso-to-the-next-level/</guid>
+      <guid>http://localhost/posts/say-bye-felicia-to-passwords-secure-enclave-takes-mac-sso-to-the-next-level/</guid>
       <description>The integration of Secure Enclave with Platform Single Sign-On (PSSO) advances security-usability balance.</description>
       
     </item>
     
     <item>
       <title>“Unlisted App” - A Boon for Enterprises</title>
-      <link>http://localhost:1313/posts/unlisted-app-a-boon-for-enterprises/</link>
+      <link>http://localhost/posts/unlisted-app-a-boon-for-enterprises/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/unlisted-app-a-boon-for-enterprises/</guid>
+      <guid>http://localhost/posts/unlisted-app-a-boon-for-enterprises/</guid>
       <description>Overview Let&amp;#8217;s discuss a new way to distribute apps to a limited number of individuals on the Apple App Store.</description>
       
     </item>
     
     <item>
       <title>(Untitled)</title>
-      <link>http://localhost:1313/posts/untitled/</link>
+      <link>http://localhost/posts/untitled/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/untitled/</guid>
+      <guid>http://localhost/posts/untitled/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>A New Era of Device Management: Exploring Microsoft Copilot for Security with Intune</title>
-      <link>http://localhost:1313/posts/microsoft-copilot-for-security-preview-and-intune/</link>
+      <link>http://localhost/posts/microsoft-copilot-for-security-preview-and-intune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/microsoft-copilot-for-security-preview-and-intune/</guid>
+      <guid>http://localhost/posts/microsoft-copilot-for-security-preview-and-intune/</guid>
       <description>Mobile device management just got smarter.</description>
       
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/posts/about/</link>
+      <link>http://localhost/posts/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/about/</guid>
+      <guid>http://localhost/posts/about/</guid>
       <description>Hello and welcome to my space on the internet!</description>
       
     </item>
     
     <item>
       <title>Add, Distribute &amp; Manage VPP Apps</title>
-      <link>http://localhost:1313/posts/add-distribute-manage-vpp-apps/</link>
+      <link>http://localhost/posts/add-distribute-manage-vpp-apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/add-distribute-manage-vpp-apps/</guid>
+      <guid>http://localhost/posts/add-distribute-manage-vpp-apps/</guid>
       <description>In previous blogs, we discussed how to&amp;nbsp;register for DUNS&amp;nbsp;and&amp;nbsp;onboarding in ABM; continuing with that, the next part is purchasing, distributing &amp;amp; managing the VPP apps.</description>
       
     </item>
     
     <item>
       <title>Android Enterprise Device Reboots On Its Own!</title>
-      <link>http://localhost:1313/posts/android-enterprise-device-reboots-on-its-own/</link>
+      <link>http://localhost/posts/android-enterprise-device-reboots-on-its-own/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/android-enterprise-device-reboots-on-its-own/</guid>
+      <guid>http://localhost/posts/android-enterprise-device-reboots-on-its-own/</guid>
       <description>In the last few days, many people have complained about the strange behavior of their Android Enterprise Devices, wherein the user&amp;#8217;s devices suddenly reboot on their own.</description>
       
     </item>
     
     <item>
       <title>Android Enterprise: Are your phones slowed down?</title>
-      <link>http://localhost:1313/posts/android-enterprise-are-your-phones-slowed-down-2/</link>
+      <link>http://localhost/posts/android-enterprise-are-your-phones-slowed-down-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/android-enterprise-are-your-phones-slowed-down-2/</guid>
+      <guid>http://localhost/posts/android-enterprise-are-your-phones-slowed-down-2/</guid>
       <description>Welcome to the new site!</description>
       
     </item>
     
     <item>
       <title>Apple Business Manager Update</title>
-      <link>http://localhost:1313/posts/apple-business-manager-update/</link>
+      <link>http://localhost/posts/apple-business-manager-update/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/apple-business-manager-update/</guid>
+      <guid>http://localhost/posts/apple-business-manager-update/</guid>
       <description>Overview On October 24th, 2022, Apple posted updated versions of operating system software license agreements to the Apple Business Manager.</description>
       
     </item>
     
     <item>
       <title>Apple for Enterprise: Offerings and benefits</title>
-      <link>http://localhost:1313/posts/appleseed-for-it/</link>
+      <link>http://localhost/posts/appleseed-for-it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/appleseed-for-it/</guid>
+      <guid>http://localhost/posts/appleseed-for-it/</guid>
       <description>Apple is well-known for its innovative products in hardware, software, and services.</description>
       
     </item>
     
     <item>
       <title>Apple Platform Deployment: An All-In-One guide to managing Apple devices with Microsoft Intune</title>
-      <link>http://localhost:1313/posts/ios-device-management-with-microsoft-intune/</link>
+      <link>http://localhost/posts/ios-device-management-with-microsoft-intune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ios-device-management-with-microsoft-intune/</guid>
+      <guid>http://localhost/posts/ios-device-management-with-microsoft-intune/</guid>
       <description>Around two years ago, I wrote an article for &#34;</description>
       
     </item>
     
     <item>
       <title>Application Inventory: The Unsung Hero of macOS Security</title>
-      <link>http://localhost:1313/posts/why-application-inventory-is-the-unsung-hero-of-macos-security/</link>
+      <link>http://localhost/posts/why-application-inventory-is-the-unsung-hero-of-macos-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/why-application-inventory-is-the-unsung-hero-of-macos-security/</guid>
+      <guid>http://localhost/posts/why-application-inventory-is-the-unsung-hero-of-macos-security/</guid>
       <description>In the ever-evolving threat landscape, keeping your organization&#39;s macOS devices secure is paramount.</description>
       
     </item>
     
     <item>
       <title>Automate Daily Reports for Windows Update Compliance using Logic Apps</title>
-      <link>http://localhost:1313/posts/automate-daily-reports-for-windows-update-compliance-using-logic-apps/</link>
+      <link>http://localhost/posts/automate-daily-reports-for-windows-update-compliance-using-logic-apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/automate-daily-reports-for-windows-update-compliance-using-logic-apps/</guid>
+      <guid>http://localhost/posts/automate-daily-reports-for-windows-update-compliance-using-logic-apps/</guid>
       <description>Overview In this blog post, I will show how to create and schedule a custom report for monitoring Windows Update using a combination of KQL and Azure Automation.</description>
       
     </item>
     
     <item>
       <title>Automate iOS LOB Provisioning Profile Expiry Notifications</title>
-      <link>http://localhost:1313/posts/automate-ios-lob-provisioning-profile-expiry-notifications/</link>
+      <link>http://localhost/posts/automate-ios-lob-provisioning-profile-expiry-notifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/automate-ios-lob-provisioning-profile-expiry-notifications/</guid>
+      <guid>http://localhost/posts/automate-ios-lob-provisioning-profile-expiry-notifications/</guid>
       <description>Background The line-of-business Apple iOS/iPadOS apps assigned to iPhones and iPads are created with a provisioning profile that is included and is code signed with a certificate.</description>
       
     </item>
     
     <item>
       <title>Automating Device Provisioning with Apple Configurator</title>
-      <link>http://localhost:1313/posts/automating-device-provisioning-with-apple-configurator/</link>
+      <link>http://localhost/posts/automating-device-provisioning-with-apple-configurator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/automating-device-provisioning-with-apple-configurator/</guid>
+      <guid>http://localhost/posts/automating-device-provisioning-with-apple-configurator/</guid>
       <description>In my previous post, we unfolded the myriad announcements made during Apple&#39;s most recent Worldwide Developers Conference (WWDC 2023).</description>
       
     </item>
     
     <item>
       <title>Beyond the Basics: Advanced Android Enterprise Management with Microsoft Intune</title>
-      <link>http://localhost:1313/posts/mastering-android-enterprise-management-how-microsoft-intune-empowers-businesses/</link>
+      <link>http://localhost/posts/mastering-android-enterprise-management-how-microsoft-intune-empowers-businesses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/mastering-android-enterprise-management-how-microsoft-intune-empowers-businesses/</guid>
+      <guid>http://localhost/posts/mastering-android-enterprise-management-how-microsoft-intune-empowers-businesses/</guid>
       <description>Are you using Microsoft Intune for Android Enterprise management and wondering how to unleash its full potential?</description>
       
     </item>
     
     <item>
       <title>Beyond the Walled Garden: What Does iOS Sideloading Mean for MDMs?</title>
-      <link>http://localhost:1313/posts/beyond-the-walled-garden-what-does-ios-sideloading-mean-for-mdms/</link>
+      <link>http://localhost/posts/beyond-the-walled-garden-what-does-ios-sideloading-mean-for-mdms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/beyond-the-walled-garden-what-does-ios-sideloading-mean-for-mdms/</guid>
+      <guid>http://localhost/posts/beyond-the-walled-garden-what-does-ios-sideloading-mean-for-mdms/</guid>
       <description>For years, Mobile Device Management (MDM) solutions have thrived within the controlled environment of Apple&#39;s App Store.</description>
       
     </item>
     
     <item>
       <title>Bring Android To Work - Manage Android Devices With Intune</title>
-      <link>http://localhost:1313/posts/bring-android-to-work-manage-android-devices-with-intune-2/</link>
+      <link>http://localhost/posts/bring-android-to-work-manage-android-devices-with-intune-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/bring-android-to-work-manage-android-devices-with-intune-2/</guid>
+      <guid>http://localhost/posts/bring-android-to-work-manage-android-devices-with-intune-2/</guid>
       <description>Intune allows you to enroll both personal and organization-owned devices with the following options: BYOD: Android Enterprise personally owned devices with a work profileAndroid Enterprise corporate-owned dedicated devices (COSU)Android Enterprise corporate owned fully managed (COBO)Android Enterprise corporate-owned work profile (COPE)Android Open Source Project (preview) (AOSP)Android device administrator (DA) There is an excellent Visio guide from MS that can be downloaded here.</description>
       
     </item>
     
     <item>
       <title>Bring Your Own Device - Plan, Configure and Securely Enrol Your Personal Devices</title>
-      <link>http://localhost:1313/posts/bring-your-own-device-plan-configure-and-enrol-your-personal-devices-securely/</link>
+      <link>http://localhost/posts/bring-your-own-device-plan-configure-and-enrol-your-personal-devices-securely/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/bring-your-own-device-plan-configure-and-enrol-your-personal-devices-securely/</guid>
+      <guid>http://localhost/posts/bring-your-own-device-plan-configure-and-enrol-your-personal-devices-securely/</guid>
       <description>This blog post describes the key concepts of the ‘&amp;#8221;Bring Your Own Device&amp;#8221; (BYOD) scenario and will also suggest measures you can use to mitigate the risks associated with allowing BYOD in your organization.</description>
       
     </item>
     
     <item>
       <title>Bring Your Own Devices (BYOD) - Configure It The Right Way!</title>
-      <link>http://localhost:1313/posts/bring-your-own-devices-byod-configure-it-the-right-way/</link>
+      <link>http://localhost/posts/bring-your-own-devices-byod-configure-it-the-right-way/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/bring-your-own-devices-byod-configure-it-the-right-way/</guid>
+      <guid>http://localhost/posts/bring-your-own-devices-byod-configure-it-the-right-way/</guid>
       <description>Earlier, we discussed the pros and cons of having personal devices enrolled in MDM and the best practices to avoid any possible data leakage.</description>
       
     </item>
     
     <item>
       <title>BYOD Reimagined: A Web-Based Enrollment Journey for iOS</title>
-      <link>http://localhost:1313/posts/byod-reimagined-a-web-based-enrollment-journey-for-ios/</link>
+      <link>http://localhost/posts/byod-reimagined-a-web-based-enrollment-journey-for-ios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/byod-reimagined-a-web-based-enrollment-journey-for-ios/</guid>
+      <guid>http://localhost/posts/byod-reimagined-a-web-based-enrollment-journey-for-ios/</guid>
       <description>Streamlining the device enrolment process is crucial for administrators and enterprises implementing BYOD policies.</description>
       
     </item>
     
     <item>
       <title>Cannot Update Comp Portal App!</title>
-      <link>http://localhost:1313/posts/cannot-update-comp-portal-app-2/</link>
+      <link>http://localhost/posts/cannot-update-comp-portal-app-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/cannot-update-comp-portal-app-2/</guid>
+      <guid>http://localhost/posts/cannot-update-comp-portal-app-2/</guid>
       <description>If you enroll iOS/iPad OS devices using Apple&amp;#8217;s ADE method, these devices will not be compatible with the public store version of the Comp Portal app.</description>
       
     </item>
     
     <item>
       <title>Certificates &amp; Intune</title>
-      <link>http://localhost:1313/posts/certificates-intune-2/</link>
+      <link>http://localhost/posts/certificates-intune-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/certificates-intune-2/</guid>
+      <guid>http://localhost/posts/certificates-intune-2/</guid>
       <description>When planning to deploy certificates with Intune, there will be two obvious questions that will pop up:</description>
       
     </item>
     
     <item>
       <title>Charting New Territories: My Experience with Windows 365 Cloud PC</title>
-      <link>http://localhost:1313/posts/exploring-the-cloud-frontier-how-to-get-started-with-windows-365-cloud-pc/</link>
+      <link>http://localhost/posts/exploring-the-cloud-frontier-how-to-get-started-with-windows-365-cloud-pc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/exploring-the-cloud-frontier-how-to-get-started-with-windows-365-cloud-pc/</guid>
+      <guid>http://localhost/posts/exploring-the-cloud-frontier-how-to-get-started-with-windows-365-cloud-pc/</guid>
       <description>With this blog, I&#39;ll share my personal journey with Windows 365 Cloud PC, a path filled with discovery, challenges, and insights.</description>
       
     </item>
     
     <item>
       <title>chatbot</title>
-      <link>http://localhost:1313/posts/chatbot/</link>
+      <link>http://localhost/posts/chatbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/chatbot/</guid>
+      <guid>http://localhost/posts/chatbot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ChromeOS Management with Intune - Preamble</title>
-      <link>http://localhost:1313/posts/chromeos-management-with-intune-preamble/</link>
+      <link>http://localhost/posts/chromeos-management-with-intune-preamble/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/chromeos-management-with-intune-preamble/</guid>
+      <guid>http://localhost/posts/chromeos-management-with-intune-preamble/</guid>
       <description>Talk of The Town In the last few days, ChromeOS &amp;amp; Chrome Enterprise have become the buzzwords for the Mobile Device Management world.</description>
       
     </item>
     
     <item>
       <title>Cloud PKI in Intune: The Future of Secure Certificate Management</title>
-      <link>http://localhost:1313/posts/demystifying-cloud-pki-in-intune-an-advanced-guide-for-intune-administrators/</link>
+      <link>http://localhost/posts/demystifying-cloud-pki-in-intune-an-advanced-guide-for-intune-administrators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/demystifying-cloud-pki-in-intune-an-advanced-guide-for-intune-administrators/</guid>
+      <guid>http://localhost/posts/demystifying-cloud-pki-in-intune-an-advanced-guide-for-intune-administrators/</guid>
       <description>This blog dives deep into the recently launched Cloud PKI, a game-changer for simplifying and automating certificate management within your Intune environment.</description>
       
     </item>
     
     <item>
       <title>Code Sign &amp; Publish Your iOS Apps</title>
-      <link>http://localhost:1313/posts/code-sign-publish-your-ios-apps-2/</link>
+      <link>http://localhost/posts/code-sign-publish-your-ios-apps-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/code-sign-publish-your-ios-apps-2/</guid>
+      <guid>http://localhost/posts/code-sign-publish-your-ios-apps-2/</guid>
       <description>Code signing is the process of digitally signing the app before it can be deployed to your user’s devices, and before any app can be installed on an iOS device, it should be code signed by its developer.</description>
       
     </item>
     
     <item>
       <title>Company Portal Version Not Supported!</title>
-      <link>http://localhost:1313/posts/company-portal-version-not-supported-2/</link>
+      <link>http://localhost/posts/company-portal-version-not-supported-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/company-portal-version-not-supported-2/</guid>
+      <guid>http://localhost/posts/company-portal-version-not-supported-2/</guid>
       <description>This blog update will help you to troubleshoot the error “Company portal version not supported” when opening the Comp portal app on iOS or iPadOS devices.</description>
       
     </item>
     
     <item>
       <title>Company-Owned iOS Device -Automated Device Enrollment - Part I</title>
-      <link>http://localhost:1313/posts/company-owned-ios-device-automated-device-enrollment-part-i-2/</link>
+      <link>http://localhost/posts/company-owned-ios-device-automated-device-enrollment-part-i-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/company-owned-ios-device-automated-device-enrollment-part-i-2/</guid>
+      <guid>http://localhost/posts/company-owned-ios-device-automated-device-enrollment-part-i-2/</guid>
       <description>Part 3 of the mega-series for managing iOS devices</description>
       
     </item>
     
     <item>
       <title>Configure Network Protection for Defender for Endpoint for Android and iOS Devices</title>
-      <link>http://localhost:1313/posts/configure-network-protection-for-defender-for-endpoint-for-android-and-ios-devices/</link>
+      <link>http://localhost/posts/configure-network-protection-for-defender-for-endpoint-for-android-and-ios-devices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/configure-network-protection-for-defender-for-endpoint-for-android-and-ios-devices/</guid>
+      <guid>http://localhost/posts/configure-network-protection-for-defender-for-endpoint-for-android-and-ios-devices/</guid>
       <description>Overview As part of its Defender for Endpoint (MDE) enterprise endpoint security platform, Microsoft recently announced that the Mobile Network Protection functionality is generally available to assist organizations in identifying network vulnerabilities affecting Android and iOS devices.</description>
       
     </item>
     
     <item>
       <title>Cool Clicks, Swift Kicks: Unleash Peak Mac Performance for a Smoother Ride!</title>
-      <link>http://localhost:1313/posts/cool-clicks-swift-kicks-the-mac-admins-guide-to-seamless-reboots/</link>
+      <link>http://localhost/posts/cool-clicks-swift-kicks-the-mac-admins-guide-to-seamless-reboots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/cool-clicks-swift-kicks-the-mac-admins-guide-to-seamless-reboots/</guid>
+      <guid>http://localhost/posts/cool-clicks-swift-kicks-the-mac-admins-guide-to-seamless-reboots/</guid>
       <description>As Intune admins, keeping our devices humming along smoothly is a top priority.</description>
       
     </item>
     
     <item>
       <title>Copilot to the Rescue: Empowering Users and Streamlining IT with Self-Service Device Management</title>
-      <link>http://localhost:1313/posts/copilot-to-the-rescue-empowering-users-and-streamlining-it-with-self-service-device-management/</link>
+      <link>http://localhost/posts/copilot-to-the-rescue-empowering-users-and-streamlining-it-with-self-service-device-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/copilot-to-the-rescue-empowering-users-and-streamlining-it-with-self-service-device-management/</guid>
+      <guid>http://localhost/posts/copilot-to-the-rescue-empowering-users-and-streamlining-it-with-self-service-device-management/</guid>
       <description>Imagine a world where basic device issues don&#39;t grind your workday to a halt.</description>
       
     </item>
     
     <item>
       <title>Create a Webview App For iOS, iPad OS or macOS</title>
-      <link>http://localhost:1313/posts/create-a-webview-app-for-ios-ipad-os-or-macos/</link>
+      <link>http://localhost/posts/create-a-webview-app-for-ios-ipad-os-or-macos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/create-a-webview-app-for-ios-ipad-os-or-macos/</guid>
+      <guid>http://localhost/posts/create-a-webview-app-for-ios-ipad-os-or-macos/</guid>
       <description>The major motive for exploring this was to have a website as an app and then publish it so that users can download and install it on their mobile devices.</description>
       
     </item>
     
     <item>
       <title>Defender for Endpoint: Some Essential Queries That You Must Use Right Now!</title>
-      <link>http://localhost:1313/posts/defender-for-endpoint-some-queries-that-you-must-use-right-now-2/</link>
+      <link>http://localhost/posts/defender-for-endpoint-some-queries-that-you-must-use-right-now-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/defender-for-endpoint-some-queries-that-you-must-use-right-now-2/</guid>
+      <guid>http://localhost/posts/defender-for-endpoint-some-queries-that-you-must-use-right-now-2/</guid>
       <description>Overview Being an Intune administrator means that in addition to managing and deploying endpoints, you are also somewhat responsible for ensuring that they continue to comply to the security standards set forth by your company.</description>
       
     </item>
     
     <item>
       <title>Demystifying Mac SSO: An In-Depth Analysis of Events</title>
-      <link>http://localhost:1313/posts/demystifying-mac-sso-extension-with-microsoft-intune-an-in-depth-analysis-of-network-events/</link>
+      <link>http://localhost/posts/demystifying-mac-sso-extension-with-microsoft-intune-an-in-depth-analysis-of-network-events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/demystifying-mac-sso-extension-with-microsoft-intune-an-in-depth-analysis-of-network-events/</guid>
+      <guid>http://localhost/posts/demystifying-mac-sso-extension-with-microsoft-intune-an-in-depth-analysis-of-network-events/</guid>
       <description>As companies increasingly adopt cloud-based technologies, managing user authentication across multiple platforms and applications has become a complex task.</description>
       
     </item>
     
     <item>
       <title>Deploy Cisco AnyConnect VPN on macOS devices with 2FA</title>
-      <link>http://localhost:1313/posts/deploy-cisco-anyconnect-vpn-on-macos-devices-with-2fa/</link>
+      <link>http://localhost/posts/deploy-cisco-anyconnect-vpn-on-macos-devices-with-2fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/deploy-cisco-anyconnect-vpn-on-macos-devices-with-2fa/</guid>
+      <guid>http://localhost/posts/deploy-cisco-anyconnect-vpn-on-macos-devices-with-2fa/</guid>
       <description>Background This post is once again focused on macOS devices since, over the past few days, there have been discussions in various communities about installing the Cisco AnyConnect VPN solution on business-owned macOS machines.</description>
       
     </item>
     
     <item>
       <title>Deploy GlobalProtect (Palo Alto) VPN to macOS using Intune</title>
-      <link>http://localhost:1313/posts/deploy-globalprotect-palo-alto-vpn-to-macos-using-intune/</link>
+      <link>http://localhost/posts/deploy-globalprotect-palo-alto-vpn-to-macos-using-intune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/deploy-globalprotect-palo-alto-vpn-to-macos-using-intune/</guid>
+      <guid>http://localhost/posts/deploy-globalprotect-palo-alto-vpn-to-macos-using-intune/</guid>
       <description>On the last week&amp;#8217;s post for Cisco AnyConnect VPN on macOS, I had a request for publishing a similar guide for deploying Palo Alto&amp;#8217;s VPN on corporate macOS devices.</description>
       
     </item>
     
     <item>
       <title>Deploy ZCC App to corporate macOS Devices</title>
-      <link>http://localhost:1313/posts/temp-slug-35-2/</link>
+      <link>http://localhost/posts/temp-slug-35-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/temp-slug-35-2/</guid>
+      <guid>http://localhost/posts/temp-slug-35-2/</guid>
       <description>Overview Zscaler Cloud Connector (ZCC) is a cloud-native zero trust access service that provides fast and secure app-to-app, app-to-Internet connectivity across multi- and hybrid cloud environments.</description>
       
     </item>
     
     <item>
       <title>Deploy ZCC App to corporate macOS Devices</title>
-      <link>http://localhost:1313/posts/temp-slug-35/</link>
+      <link>http://localhost/posts/temp-slug-35/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/temp-slug-35/</guid>
+      <guid>http://localhost/posts/temp-slug-35/</guid>
       <description>Overview Zscaler Cloud Connector (ZCC) is a cloud-native zero trust access service that provides fast and secure app-to-app, app-to-Internet connectivity across multi- and hybrid cloud environments.</description>
       
     </item>
     
     <item>
       <title>Device Admin App: The necessity and importance</title>
-      <link>http://localhost:1313/posts/device-admin-app/</link>
+      <link>http://localhost/posts/device-admin-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/device-admin-app/</guid>
+      <guid>http://localhost/posts/device-admin-app/</guid>
       <description>I was assisting a user today with adding his Android device to our MDM system (Microsoft Intune), and he came across the message &#34;</description>
       
     </item>
     
     <item>
       <title>Device Deployment: ABM or ASM or ABE?</title>
-      <link>http://localhost:1313/posts/apple-school-managerapple-business-manager-or-apple-business-essentials/</link>
+      <link>http://localhost/posts/apple-school-managerapple-business-manager-or-apple-business-essentials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/apple-school-managerapple-business-manager-or-apple-business-essentials/</guid>
+      <guid>http://localhost/posts/apple-school-managerapple-business-manager-or-apple-business-essentials/</guid>
       <description>Welcome to part three of the All-In-One guide to managing Apple devices with Microsoft Intune.</description>
       
     </item>
     
     <item>
       <title>Early Bird Gets the Worm: Testing iOS 18 &amp; macOS 15 (Beta) Devices with Intune</title>
-      <link>http://localhost:1313/posts/early-bird-gets-the-worm-testing-ios-18-macos-15-beta-devices-with-intune/</link>
+      <link>http://localhost/posts/early-bird-gets-the-worm-testing-ios-18-macos-15-beta-devices-with-intune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/early-bird-gets-the-worm-testing-ios-18-macos-15-beta-devices-with-intune/</guid>
+      <guid>http://localhost/posts/early-bird-gets-the-worm-testing-ios-18-macos-15-beta-devices-with-intune/</guid>
       <description>Apple has unleashed its latest developer darlings:&amp;nbsp;the iOS 18 and macOS 15 betas!</description>
       
     </item>
     
     <item>
       <title>Enhancing macOS App Deployment with Pre-Install and Post-Install Scripts</title>
-      <link>http://localhost:1313/posts/enhancing-macos-app-deployment-with-pre-install-and-post-install-scripts/</link>
+      <link>http://localhost/posts/enhancing-macos-app-deployment-with-pre-install-and-post-install-scripts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/enhancing-macos-app-deployment-with-pre-install-and-post-install-scripts/</guid>
+      <guid>http://localhost/posts/enhancing-macos-app-deployment-with-pre-install-and-post-install-scripts/</guid>
       <description>In the realm of macOS app deployment, Intune continues to improve and evolve, providing with an ever-increasing level of control and enhanced functionality.</description>
       
     </item>
     
     <item>
       <title>Enroll Supervised iOS Devices With Modern Authentication With iOS16</title>
-      <link>http://localhost:1313/posts/enroll-supervised-ios-devices-with-modern-authentication-with-ios16-2/</link>
+      <link>http://localhost/posts/enroll-supervised-ios-devices-with-modern-authentication-with-ios16-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/enroll-supervised-ios-devices-with-modern-authentication-with-ios16-2/</guid>
+      <guid>http://localhost/posts/enroll-supervised-ios-devices-with-modern-authentication-with-ios16-2/</guid>
       <description>Apple will remove the Company Portal authentication method for all new and existing iOS/iPadOS ADE enrollment profiles in November 2022.</description>
       
     </item>
     
     <item>
       <title>Exploring Microsoft Intune&#39;s Remote Help on macOS: A Hands-On Guide</title>
-      <link>http://localhost:1313/posts/exploring-microsoft-intune-remote-help-on-macos/</link>
+      <link>http://localhost/posts/exploring-microsoft-intune-remote-help-on-macos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/exploring-microsoft-intune-remote-help-on-macos/</guid>
+      <guid>http://localhost/posts/exploring-microsoft-intune-remote-help-on-macos/</guid>
       <description>In today&#39;s digital age, remote assistance has become an essential tool for providing technical support to users.</description>
       
     </item>
     
     <item>
       <title>Extending Access Management for Apple Services: Beyond Federated Authentication</title>
-      <link>http://localhost:1313/posts/look-beyond-federated-authentication/</link>
+      <link>http://localhost/posts/look-beyond-federated-authentication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/look-beyond-federated-authentication/</guid>
+      <guid>http://localhost/posts/look-beyond-federated-authentication/</guid>
       <description>Apple Business Manager, along with Microsoft Entra ID, offers a powerful solution for enhancing business security through federated authentication.</description>
       
     </item>
     
     <item>
       <title>Factory Reset Protection: Secure your hardware</title>
-      <link>http://localhost:1313/posts/factory-reset-protection/</link>
+      <link>http://localhost/posts/factory-reset-protection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/factory-reset-protection/</guid>
+      <guid>http://localhost/posts/factory-reset-protection/</guid>
       <description>A security feature called Factory Reset Protection (FRP) makes sure that if your phone is lost or stolen, it cannot be quickly reset by someone else.</description>
       
     </item>
     
     <item>
       <title>Fire Up The Tenant!</title>
-      <link>http://localhost:1313/posts/fire-up-the-tenant-2/</link>
+      <link>http://localhost/posts/fire-up-the-tenant-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/fire-up-the-tenant-2/</guid>
+      <guid>http://localhost/posts/fire-up-the-tenant-2/</guid>
       <description>The foundation for configuring any services in the cloud is a “Tenant.</description>
       
     </item>
     
     <item>
       <title>From Newbie to Pro: Enrollment &amp; Logs for Apple Devices</title>
-      <link>http://localhost:1313/posts/from-newbie-to-pro-enrollment-logs-for-apple-devices/</link>
+      <link>http://localhost/posts/from-newbie-to-pro-enrollment-logs-for-apple-devices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/from-newbie-to-pro-enrollment-logs-for-apple-devices/</guid>
+      <guid>http://localhost/posts/from-newbie-to-pro-enrollment-logs-for-apple-devices/</guid>
       <description>Feeling overwhelmed by the sheer number of iPhones, iPads, and Macs under your wing?</description>
       
     </item>
     
     <item>
       <title>Getting Started - Apple Device Enrollment &amp; MDM</title>
-      <link>http://localhost:1313/posts/getting-started-ade-mdm/</link>
+      <link>http://localhost/posts/getting-started-ade-mdm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/getting-started-ade-mdm/</guid>
+      <guid>http://localhost/posts/getting-started-ade-mdm/</guid>
       <description>Welcome to part-2 of the AIO guide for managing the Apple platform with Microsoft Intune.</description>
       
     </item>
     
     <item>
       <title>Guardian&#39;s Unexpected Defiance: When Defender Goes Astray</title>
-      <link>http://localhost:1313/posts/guardians-unexpected-defiance-when-defender-goes-astray/</link>
+      <link>http://localhost/posts/guardians-unexpected-defiance-when-defender-goes-astray/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/guardians-unexpected-defiance-when-defender-goes-astray/</guid>
+      <guid>http://localhost/posts/guardians-unexpected-defiance-when-defender-goes-astray/</guid>
       <description>In the ever-evolving world of cybersecurity, there&#39;s a constant tug-of-war between defenders and hackers.</description>
       
     </item>
     
     <item>
       <title>Hands-On With iOS 16 - The Best Features For Enterprises</title>
-      <link>http://localhost:1313/posts/hands-on-with-ios-16-the-best-features-for-enterprises-2/</link>
+      <link>http://localhost/posts/hands-on-with-ios-16-the-best-features-for-enterprises-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hands-on-with-ios-16-the-best-features-for-enterprises-2/</guid>
+      <guid>http://localhost/posts/hands-on-with-ios-16-the-best-features-for-enterprises-2/</guid>
       <description>iOS 16 is two weeks old, and iPad OS 16 is expected to be released in the next few weeks.</description>
       
     </item>
     
     <item>
       <title>Integrate MTD With Intune</title>
-      <link>http://localhost:1313/posts/integrate-mtd-with-intune-2/</link>
+      <link>http://localhost/posts/integrate-mtd-with-intune-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/integrate-mtd-with-intune-2/</guid>
+      <guid>http://localhost/posts/integrate-mtd-with-intune-2/</guid>
       <description>Integrating a Mobile Threat Defense solution with Intune will help you protect corporate data and mobile devices against any network attack or malware attacks and can alert MDM admins if a device is compromised or tampered with.</description>
       
     </item>
     
     <item>
       <title>Integrate ServiceNow with Microsoft Intune</title>
-      <link>http://localhost:1313/posts/integrate-microsoft-intune-with-servicenow/</link>
+      <link>http://localhost/posts/integrate-microsoft-intune-with-servicenow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/integrate-microsoft-intune-with-servicenow/</guid>
+      <guid>http://localhost/posts/integrate-microsoft-intune-with-servicenow/</guid>
       <description>As the number of devices organisations control grows, keeping track of accurate inventory data becomes increasingly difficult.</description>
       
     </item>
     
     <item>
       <title>Integrating Adobe With OneDrive for Business on iOS/iPadOS Devices Enrolled in Intune</title>
-      <link>http://localhost:1313/posts/enable-adobe-to-read-pdf-from-one-drive/</link>
+      <link>http://localhost/posts/enable-adobe-to-read-pdf-from-one-drive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/enable-adobe-to-read-pdf-from-one-drive/</guid>
+      <guid>http://localhost/posts/enable-adobe-to-read-pdf-from-one-drive/</guid>
       <description>With the burgeoning growth of remote work and digital environments, many organizations are relying heavily on cloud storage solutions like Microsoft OneDrive for Business and mobile device management (MDM) systems like Microsoft Intune.</description>
       
     </item>
     
     <item>
       <title>iOS Alternative App Stores? Not on My Supervised Devices!</title>
-      <link>http://localhost:1313/posts/alternative-app-stores-not-on-my-supervised-devices/</link>
+      <link>http://localhost/posts/alternative-app-stores-not-on-my-supervised-devices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/alternative-app-stores-not-on-my-supervised-devices/</guid>
+      <guid>http://localhost/posts/alternative-app-stores-not-on-my-supervised-devices/</guid>
       <description>The world of iOS app distribution is experiencing a shakeup, particularly in the European Union (EU).</description>
       
     </item>
     
     <item>
       <title>iOS App Distribution – From Private Apps to Enterprise Apps</title>
-      <link>http://localhost:1313/posts/ios-app-distribution-from-private-apps-to-enterprise-apps/</link>
+      <link>http://localhost/posts/ios-app-distribution-from-private-apps-to-enterprise-apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ios-app-distribution-from-private-apps-to-enterprise-apps/</guid>
+      <guid>http://localhost/posts/ios-app-distribution-from-private-apps-to-enterprise-apps/</guid>
       <description>Overview Apple provides a wide range of application distribution options, each of which serves a particular purpose.</description>
       
     </item>
     
     <item>
       <title>It&#39;s Out Now! The All New macOS Update Policies in Intune</title>
-      <link>http://localhost:1313/posts/its-out-now-the-all-new-macos-update-policies-in-intune/</link>
+      <link>http://localhost/posts/its-out-now-the-all-new-macos-update-policies-in-intune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/its-out-now-the-all-new-macos-update-policies-in-intune/</guid>
+      <guid>http://localhost/posts/its-out-now-the-all-new-macos-update-policies-in-intune/</guid>
       <description>Overview The feature all Intune admins managing corporate macOS devices have been waiting for a long is out!</description>
       
     </item>
     
     <item>
       <title>It&#39;s Time To Move To Modern Authentication!</title>
-      <link>http://localhost:1313/posts/its-time-to-move-to-modern-authentication-2/</link>
+      <link>http://localhost/posts/its-time-to-move-to-modern-authentication-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/its-time-to-move-to-modern-authentication-2/</guid>
+      <guid>http://localhost/posts/its-time-to-move-to-modern-authentication-2/</guid>
       <description>In about 42 days, Microsoft will disable the ability to use basic authentication for Outlook, Exchange Web Services, POP, IMAP, Remote PS &amp;amp; EAS protocols for Exchange Online.</description>
       
     </item>
     
     <item>
       <title>Just in Time Registration for iOS/iPadOS</title>
-      <link>http://localhost:1313/posts/just-in-time-registration-for-ios-ipados/</link>
+      <link>http://localhost/posts/just-in-time-registration-for-ios-ipados/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/just-in-time-registration-for-ios-ipados/</guid>
+      <guid>http://localhost/posts/just-in-time-registration-for-ios-ipados/</guid>
       <description>Overview Just in Time, more commonly referred to as JIT, is a management philosophy used in several industries for decades.</description>
       
     </item>
     
     <item>
       <title>Keep Me Upadted!</title>
-      <link>http://localhost:1313/posts/keep-me-updated-2/</link>
+      <link>http://localhost/posts/keep-me-updated-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/keep-me-updated-2/</guid>
+      <guid>http://localhost/posts/keep-me-updated-2/</guid>
       <description>With iOS/iPadOS 16 scheduled to be released in the next few days, many organizations will put restrictions on deferring software updates to buy in time to get ready with the new OS.</description>
       
     </item>
     
     <item>
       <title>Let&#39;s get Started..</title>
-      <link>http://localhost:1313/posts/lets-get-started-2/</link>
+      <link>http://localhost/posts/lets-get-started-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/lets-get-started-2/</guid>
+      <guid>http://localhost/posts/lets-get-started-2/</guid>
       <description>So, you have decided to use Intune for the modern management of your devices; now, let’s get you started with the basics of setting up the tenant and some required configurations.</description>
       
     </item>
     
     <item>
       <title>Locate lost or stolen Android Enterprise devices with Intune</title>
-      <link>http://localhost:1313/posts/temp-slug-52-2/</link>
+      <link>http://localhost/posts/temp-slug-52-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/temp-slug-52-2/</guid>
+      <guid>http://localhost/posts/temp-slug-52-2/</guid>
       <description>Overview Microsoft Intune allows you to easily &amp;#8220;locate a device&amp;#8221; if it&amp;#8217;s lost or stolen.</description>
       
     </item>
     
     <item>
       <title>Locate lost or stolen Android Enterprise devices with Intune</title>
-      <link>http://localhost:1313/posts/temp-slug-52/</link>
+      <link>http://localhost/posts/temp-slug-52/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/temp-slug-52/</guid>
+      <guid>http://localhost/posts/temp-slug-52/</guid>
       <description>Overview Microsoft Intune allows you to easily &amp;#8220;locate a device&amp;#8221; if it&amp;#8217;s lost or stolen.</description>
       
     </item>
     
     <item>
       <title>Mac-on-Mac: Running a Virtual macOS using Parallels Desktop</title>
-      <link>http://localhost:1313/posts/mac-on-mac-running-a-virtual-macos/</link>
+      <link>http://localhost/posts/mac-on-mac-running-a-virtual-macos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/mac-on-mac-running-a-virtual-macos/</guid>
+      <guid>http://localhost/posts/mac-on-mac-running-a-virtual-macos/</guid>
       <description>In this step-by-step guide, I delve into the process of setting up a macOS virtual machine, integrating it seamlessly with Microsoft Intune, and optimizing it with the Enterprise SSO Plugin.</description>
       
     </item>
     
     <item>
       <title>MacOS Managed Local Accounts: Friend or Foe? (With a New Friend in Town!)</title>
-      <link>http://localhost:1313/posts/macos-managed-local-accounts-friend-or-foe-with-a-new-friend-in-town/</link>
+      <link>http://localhost/posts/macos-managed-local-accounts-friend-or-foe-with-a-new-friend-in-town/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/macos-managed-local-accounts-friend-or-foe-with-a-new-friend-in-town/</guid>
+      <guid>http://localhost/posts/macos-managed-local-accounts-friend-or-foe-with-a-new-friend-in-town/</guid>
       <description>The world of managing Macs just got a whole lot friendlier (or potentially foe-ish?</description>
       
     </item>
     
     <item>
       <title>macOS Management with Intune - Part II</title>
-      <link>http://localhost:1313/posts/macos-management-with-intune-part-ii/</link>
+      <link>http://localhost/posts/macos-management-with-intune-part-ii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/macos-management-with-intune-part-ii/</guid>
+      <guid>http://localhost/posts/macos-management-with-intune-part-ii/</guid>
       <description>Part two of the macOS management series, and we will configure the policies &amp;amp; profiles for silent onboarding of mac OS devices in Microsoft Defender for Endpoint along with pushing the Company Portal app on the device.</description>
       
     </item>
     
     <item>
       <title>macOS Management with Intune - Part IV</title>
-      <link>http://localhost:1313/posts/macos-management-with-intune-part-iv/</link>
+      <link>http://localhost/posts/macos-management-with-intune-part-iv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/macos-management-with-intune-part-iv/</guid>
+      <guid>http://localhost/posts/macos-management-with-intune-part-iv/</guid>
       <description>Overview Welcome to the next part of the macOS management series.</description>
       
     </item>
     
     <item>
       <title>macOS Management with Intune - The Prologue</title>
-      <link>http://localhost:1313/posts/macos-management-with-intune-the-prologue/</link>
+      <link>http://localhost/posts/macos-management-with-intune-the-prologue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/macos-management-with-intune-the-prologue/</guid>
+      <guid>http://localhost/posts/macos-management-with-intune-the-prologue/</guid>
       <description>Overview macOS is the operating system that powers every MacBook.</description>
       
     </item>
     
     <item>
       <title>macOS Management with Intune – Part III</title>
-      <link>http://localhost:1313/posts/macos-management-with-intune-part-iii/</link>
+      <link>http://localhost/posts/macos-management-with-intune-part-iii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/macos-management-with-intune-part-iii/</guid>
+      <guid>http://localhost/posts/macos-management-with-intune-part-iii/</guid>
       <description>Overview Welcome to part three of the macOS management series, wherein I will help you with understanding the different macOS settings that should be managed with compliance policies &amp;amp; system preferences.</description>
       
     </item>
     
     <item>
       <title>Managing Rapid Security Response on Apple Devices</title>
-      <link>http://localhost:1313/posts/rapid-security-response/</link>
+      <link>http://localhost/posts/rapid-security-response/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/rapid-security-response/</guid>
+      <guid>http://localhost/posts/rapid-security-response/</guid>
       <description>The latest version of iOS/iPadOS 16.</description>
       
     </item>
     
     <item>
       <title>Modern Device Management and The Need of Automation</title>
-      <link>http://localhost:1313/posts/modern-device-management-and-the-need-of-automation/</link>
+      <link>http://localhost/posts/modern-device-management-and-the-need-of-automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/modern-device-management-and-the-need-of-automation/</guid>
+      <guid>http://localhost/posts/modern-device-management-and-the-need-of-automation/</guid>
       <description>Managing devices in an organization are becoming more complex as more and more devices are introduced.</description>
       
     </item>
     
     <item>
       <title>Multi-App KIOSK Mode In iOS/iPad OS</title>
-      <link>http://localhost:1313/posts/multi-app-kiosk-mode-in-ios-ipad-os-2/</link>
+      <link>http://localhost/posts/multi-app-kiosk-mode-in-ios-ipad-os-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/multi-app-kiosk-mode-in-ios-ipad-os-2/</guid>
+      <guid>http://localhost/posts/multi-app-kiosk-mode-in-ios-ipad-os-2/</guid>
       <description>This article describes how to enable multi-app kiosk mode on iOS using Intune.</description>
       
     </item>
     
     <item>
       <title>Onboard iOS Devices to Microsoft Defender for Endpoint</title>
-      <link>http://localhost:1313/posts/temp-slug-45-2/</link>
+      <link>http://localhost/posts/temp-slug-45-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/temp-slug-45-2/</guid>
+      <guid>http://localhost/posts/temp-slug-45-2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Onboard iOS Devices to Microsoft Defender for Endpoint</title>
-      <link>http://localhost:1313/posts/temp-slug-45/</link>
+      <link>http://localhost/posts/temp-slug-45/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/temp-slug-45/</guid>
+      <guid>http://localhost/posts/temp-slug-45/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Onboarding to ABM</title>
-      <link>http://localhost:1313/posts/onboarding-to-abm/</link>
+      <link>http://localhost/posts/onboarding-to-abm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/onboarding-to-abm/</guid>
+      <guid>http://localhost/posts/onboarding-to-abm/</guid>
       <description>Welcome to part four of the All-In-One guide to managing Apple devices with Microsoft Intune.</description>
       
     </item>
     
     <item>
       <title>Platform SSO for macOS: A Deep Dive into Configuration &amp; Troubleshooting</title>
-      <link>http://localhost:1313/posts/implementing-platform-sso-for-macos-a-deep-dive-into-configuration-troubleshooting/</link>
+      <link>http://localhost/posts/implementing-platform-sso-for-macos-a-deep-dive-into-configuration-troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/implementing-platform-sso-for-macos-a-deep-dive-into-configuration-troubleshooting/</guid>
+      <guid>http://localhost/posts/implementing-platform-sso-for-macos-a-deep-dive-into-configuration-troubleshooting/</guid>
       <description>The wait is over!</description>
       
     </item>
     
     <item>
       <title>Prevent Supervised Devices From Installing Apple Beta Software Using Intune</title>
-      <link>http://localhost:1313/posts/prevent-supervised-devices-from-installing-apple-beta-software/</link>
+      <link>http://localhost/posts/prevent-supervised-devices-from-installing-apple-beta-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/prevent-supervised-devices-from-installing-apple-beta-software/</guid>
+      <guid>http://localhost/posts/prevent-supervised-devices-from-installing-apple-beta-software/</guid>
       <description>Apple introduced several highly anticipated device management features this year, including the much-awaited &#34;</description>
       
     </item>
     
     <item>
       <title>Publish Enterprise Apps In Google Enterprise Play Store</title>
-      <link>http://localhost:1313/posts/temp-slug-47-2/</link>
+      <link>http://localhost/posts/temp-slug-47-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/temp-slug-47-2/</guid>
+      <guid>http://localhost/posts/temp-slug-47-2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Publish Enterprise Apps In Google Enterprise Play Store</title>
-      <link>http://localhost:1313/posts/temp-slug-47/</link>
+      <link>http://localhost/posts/temp-slug-47/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/temp-slug-47/</guid>
+      <guid>http://localhost/posts/temp-slug-47/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Reboot Chronicles: An In-depth Look at Android Mainline Updates</title>
-      <link>http://localhost:1313/posts/why-your-android-device-reboots/</link>
+      <link>http://localhost/posts/why-your-android-device-reboots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/why-your-android-device-reboots/</guid>
+      <guid>http://localhost/posts/why-your-android-device-reboots/</guid>
       <description>In my previous blog posts, we delved deep into the intriguing topic of why an Android Enterprise device seems to have a mind of its own and reboots unexpectedly.</description>
       
     </item>
     
     <item>
       <title>Registering For D-U-N-S</title>
-      <link>http://localhost:1313/posts/registering-for-d-u-n-s/</link>
+      <link>http://localhost/posts/registering-for-d-u-n-s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/registering-for-d-u-n-s/</guid>
+      <guid>http://localhost/posts/registering-for-d-u-n-s/</guid>
       <description>What is the D-U-N-S number?</description>
       
     </item>
     
     <item>
       <title>Say Hi! to the New Microsoft Store in Intune</title>
-      <link>http://localhost:1313/posts/say-hi-to-the-new-microsoft-store-in-intune/</link>
+      <link>http://localhost/posts/say-hi-to-the-new-microsoft-store-in-intune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/say-hi-to-the-new-microsoft-store-in-intune/</guid>
+      <guid>http://localhost/posts/say-hi-to-the-new-microsoft-store-in-intune/</guid>
       <description>The brand-new Microsoft App Store is now generally available.</description>
       
     </item>
     
     <item>
       <title>Secure, Contain, Protect... Your Mac: Deploy mSCP with Intune</title>
-      <link>http://localhost:1313/posts/secure-contain-protect-your-data-deploy-mscp-with-intune/</link>
+      <link>http://localhost/posts/secure-contain-protect-your-data-deploy-mscp-with-intune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/secure-contain-protect-your-data-deploy-mscp-with-intune/</guid>
+      <guid>http://localhost/posts/secure-contain-protect-your-data-deploy-mscp-with-intune/</guid>
       <description>Imagine a scenario: Your Mac fleet houses a growing universe of data, valuable and vulnerable in equal measure.</description>
       
     </item>
     
     <item>
       <title>Security Benchmark for macOS - Best Practice Guide</title>
-      <link>http://localhost:1313/posts/security-benchmark-for-macos-best-practice-guide/</link>
+      <link>http://localhost/posts/security-benchmark-for-macos-best-practice-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/security-benchmark-for-macos-best-practice-guide/</guid>
+      <guid>http://localhost/posts/security-benchmark-for-macos-best-practice-guide/</guid>
       <description>Overview There has always been a perception that macOS devices are safer than Windows PCs in terms of security.</description>
       
     </item>
     
     <item>
       <title>Security Without Sweat: Force Enable FileVault During macOS Setup Assistant</title>
-      <link>http://localhost:1313/posts/security-without-sweat-enabling-filevault-during-macos-setup/</link>
+      <link>http://localhost/posts/security-without-sweat-enabling-filevault-during-macos-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/security-without-sweat-enabling-filevault-during-macos-setup/</guid>
+      <guid>http://localhost/posts/security-without-sweat-enabling-filevault-during-macos-setup/</guid>
       <description>You can now enforce&amp;nbsp;FileVault during Setup Assistant with macOS 14.</description>
       
     </item>
     
     <item>
       <title>Set a Deadline For Office Updates on macOS using MAU</title>
-      <link>http://localhost:1313/posts/controlling-update-behaviour-for-microsoft-applications-on-macos-using-microsoft-autoupdate/</link>
+      <link>http://localhost/posts/controlling-update-behaviour-for-microsoft-applications-on-macos-using-microsoft-autoupdate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/controlling-update-behaviour-for-microsoft-applications-on-macos-using-microsoft-autoupdate/</guid>
+      <guid>http://localhost/posts/controlling-update-behaviour-for-microsoft-applications-on-macos-using-microsoft-autoupdate/</guid>
       <description>Today, we&#39;re going to be addressing a peculiar issue that many Mac users have been experiencing.</description>
       
     </item>
     
     <item>
       <title>Set Sail for Smooth Seas: Effortless Mac Enrollment with Intune</title>
-      <link>http://localhost:1313/posts/set-sail-for-smooth-seas-effortless-mac-enrollment-with-intune/</link>
+      <link>http://localhost/posts/set-sail-for-smooth-seas-effortless-mac-enrollment-with-intune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/set-sail-for-smooth-seas-effortless-mac-enrollment-with-intune/</guid>
+      <guid>http://localhost/posts/set-sail-for-smooth-seas-effortless-mac-enrollment-with-intune/</guid>
       <description>Setting up a new Mac can feel like navigating a stormy sea for both IT admins and new users.</description>
       
     </item>
     
     <item>
       <title>Simplifying MDM Support with Power Virtual Agents and Power Apps</title>
-      <link>http://localhost:1313/posts/building-a-self-service-mem-bot-using-power-virtual-agents-and-power-automate/</link>
+      <link>http://localhost/posts/building-a-self-service-mem-bot-using-power-virtual-agents-and-power-automate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/building-a-self-service-mem-bot-using-power-virtual-agents-and-power-automate/</guid>
+      <guid>http://localhost/posts/building-a-self-service-mem-bot-using-power-virtual-agents-and-power-automate/</guid>
       <description>IT support has developed into a crucial component of any modern organization as we become more reliant on digital tools and remote work.</description>
       
     </item>
     
     <item>
       <title>Streamline Your Mac Experience with Microsoft Auto Update Tool</title>
-      <link>http://localhost:1313/posts/streamline-your-mac-experience-with-ms-auto-update-tool/</link>
+      <link>http://localhost/posts/streamline-your-mac-experience-with-ms-auto-update-tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/streamline-your-mac-experience-with-ms-auto-update-tool/</guid>
+      <guid>http://localhost/posts/streamline-your-mac-experience-with-ms-auto-update-tool/</guid>
       <description>In a previous article, we explored how to control update behavior for Microsoft applications on macOS using Microsoft AutoUpdate and Microsoft Intune.</description>
       
     </item>
     
     <item>
       <title>Taking Platform SSO to the Next Level: Create New Users At Login</title>
-      <link>http://localhost:1313/posts/taking-platform-sso-to-the-next-level-create-new-user-at-login/</link>
+      <link>http://localhost/posts/taking-platform-sso-to-the-next-level-create-new-user-at-login/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/taking-platform-sso-to-the-next-level-create-new-user-at-login/</guid>
+      <guid>http://localhost/posts/taking-platform-sso-to-the-next-level-create-new-user-at-login/</guid>
       <description>In my previous exploration, we delved deep into the world of Apple Identity Services and Platform Single Sign-On (PSSO).</description>
       
     </item>
     
     <item>
       <title>Target API Level Policy Changes &amp; Its Impact on Enterprises</title>
-      <link>http://localhost:1313/posts/target-api-level-policy-changes-its-impact-on-enterprises/</link>
+      <link>http://localhost/posts/target-api-level-policy-changes-its-impact-on-enterprises/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/target-api-level-policy-changes-its-impact-on-enterprises/</guid>
+      <guid>http://localhost/posts/target-api-level-policy-changes-its-impact-on-enterprises/</guid>
       <description>Overview With the service release 2211 of Intune, password complexity settings for Android Enterprise 12+ devices have been changed.</description>
       
     </item>
     
     <item>
       <title>The &#39;allow_pairing&#39; Caper: How a Tiny Setting Sent Me on a Wild Goose Chase</title>
-      <link>http://localhost:1313/posts/the-allow_pairing-caper-how-a-tiny-setting-sent-me-on-a-wild-goose-chase/</link>
+      <link>http://localhost/posts/the-allow_pairing-caper-how-a-tiny-setting-sent-me-on-a-wild-goose-chase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/the-allow_pairing-caper-how-a-tiny-setting-sent-me-on-a-wild-goose-chase/</guid>
+      <guid>http://localhost/posts/the-allow_pairing-caper-how-a-tiny-setting-sent-me-on-a-wild-goose-chase/</guid>
       <description>Just a few months ago, we rolled out the shiny new iOS 17 and macOS Sonoma to our excited user base.</description>
       
     </item>
     
     <item>
       <title>The Apple Connect: Bridging Identity Services with SSO</title>
-      <link>http://localhost:1313/posts/apple-identity-services-sso/</link>
+      <link>http://localhost/posts/apple-identity-services-sso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/apple-identity-services-sso/</guid>
+      <guid>http://localhost/posts/apple-identity-services-sso/</guid>
       <description>Welcome to Part Six of the &#34;</description>
       
     </item>
     
     <item>
       <title>The Magic of ObliterationBehavior</title>
-      <link>http://localhost:1313/posts/obliterationbehavior/</link>
+      <link>http://localhost/posts/obliterationbehavior/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/obliterationbehavior/</guid>
+      <guid>http://localhost/posts/obliterationbehavior/</guid>
       <description>A new feature in the most recent Intune service release (2305) is the ability to use the Wipe device command for macOS devices.</description>
       
     </item>
     
     <item>
       <title>The Shift From MDM to DDM: A Deep Dive into Declarative Device Management</title>
-      <link>http://localhost:1313/posts/the-shift-from-mdm-to-ddm/</link>
+      <link>http://localhost/posts/the-shift-from-mdm-to-ddm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/the-shift-from-mdm-to-ddm/</guid>
+      <guid>http://localhost/posts/the-shift-from-mdm-to-ddm/</guid>
       <description>Declarative Device Management&amp;nbsp;(DDM) is a revolutionary approach to managing mobile devices that empowers them to be autonomous and proactive.</description>
       
     </item>
     
     <item>
       <title>This PC can&#39;t run Windows 11!</title>
-      <link>http://localhost:1313/posts/this-pc-cant-run-windows-11/</link>
+      <link>http://localhost/posts/this-pc-cant-run-windows-11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/this-pc-cant-run-windows-11/</guid>
+      <guid>http://localhost/posts/this-pc-cant-run-windows-11/</guid>
       <description>Overview As the craze for Windows 11 continue growing, more and more people are installing Windows 11 everyday.</description>
       
     </item>
     
     <item>
       <title>Time To Upgrade the Certificate Connector!</title>
-      <link>http://localhost:1313/posts/time-to-upgrade-the-certificate-connector-2/</link>
+      <link>http://localhost/posts/time-to-upgrade-the-certificate-connector-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/time-to-upgrade-the-certificate-connector-2/</guid>
+      <guid>http://localhost/posts/time-to-upgrade-the-certificate-connector-2/</guid>
       <description>If your certificate connector is still on a version earlier than&amp;nbsp;6.</description>
       
     </item>
     
     <item>
       <title>Uncover the Secrets of AppleSeed: Part I - The Basics</title>
-      <link>http://localhost:1313/posts/uncover-the-secrets-of-appleseed-part-i/</link>
+      <link>http://localhost/posts/uncover-the-secrets-of-appleseed-part-i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/uncover-the-secrets-of-appleseed-part-i/</guid>
+      <guid>http://localhost/posts/uncover-the-secrets-of-appleseed-part-i/</guid>
       <description>As an MDM admin, navigating the ever-evolving tech landscape is crucial for keeping your organization at the forefront.</description>
       
     </item>
     
     <item>
       <title>Uncover the Secrets of AppleSeed: Part II - Exploring the Tools</title>
-      <link>http://localhost:1313/posts/uncover-the-secrets-of-appleseed-part-ii/</link>
+      <link>http://localhost/posts/uncover-the-secrets-of-appleseed-part-ii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/uncover-the-secrets-of-appleseed-part-ii/</guid>
+      <guid>http://localhost/posts/uncover-the-secrets-of-appleseed-part-ii/</guid>
       <description>Welcome back to second part of &#34;</description>
       
     </item>
     
     <item>
       <title>Uncover the Secrets of AppleSeed: Part III - Mastering the Tools</title>
-      <link>http://localhost:1313/posts/uncover-the-secrets-of-appleseed-part-iii-mastering-the-tools/</link>
+      <link>http://localhost/posts/uncover-the-secrets-of-appleseed-part-iii-mastering-the-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/uncover-the-secrets-of-appleseed-part-iii-mastering-the-tools/</guid>
+      <guid>http://localhost/posts/uncover-the-secrets-of-appleseed-part-iii-mastering-the-tools/</guid>
       <description>Picture this: you&#39;re an MDM admin tasked with spearheading the deployment of Apple devices across your organization.</description>
       
     </item>
     
     <item>
       <title>Use Logic App to Get Notified of ADE Token Renewal</title>
-      <link>http://localhost:1313/posts/create-a-logic/</link>
+      <link>http://localhost/posts/create-a-logic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/create-a-logic/</guid>
+      <guid>http://localhost/posts/create-a-logic/</guid>
       <description>The Apple Device Enrollment (ADE) token, also recognized as an MDM server token, is a key element in ensuring secure communication between Apple Business or School Manager and a Mobile Device Management (MDM) server, such as Microsoft Intune.</description>
       
     </item>
     
     <item>
       <title>WebContentFilter: The payload to keep your users &amp; devices secure!</title>
-      <link>http://localhost:1313/posts/web-content-filtering/</link>
+      <link>http://localhost/posts/web-content-filtering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/web-content-filtering/</guid>
+      <guid>http://localhost/posts/web-content-filtering/</guid>
       <description>ContentFiltering (CF) allows you to restrict access to specific websites for iPhone, iPad, and Mac users who are enrolled in a mobile device management (MDM) solution.</description>
       
     </item>
     
     <item>
       <title>What Causes an Android Device To Reboot On It&#39;s Own Suddenly?</title>
-      <link>http://localhost:1313/posts/what-causes-an-android-device-to-reboot-on-its-own-suddenly-2/</link>
+      <link>http://localhost/posts/what-causes-an-android-device-to-reboot-on-its-own-suddenly-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/what-causes-an-android-device-to-reboot-on-its-own-suddenly-2/</guid>
+      <guid>http://localhost/posts/what-causes-an-android-device-to-reboot-on-its-own-suddenly-2/</guid>
       <description>In my previous post &amp;#8211; Android Enterprise Device Reboots On Its Own!</description>
       
     </item>
     
     <item>
       <title>What is AOSP? How to use Android Emulators to configure, manage &amp; enroll AVDs in Intune? - Part1</title>
-      <link>http://localhost:1313/posts/what-is-aosp-how-to-use-android-emulators-to-configure-manage-enrol-avds-in-intune-2/</link>
+      <link>http://localhost/posts/what-is-aosp-how-to-use-android-emulators-to-configure-manage-enrol-avds-in-intune-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/what-is-aosp-how-to-use-android-emulators-to-configure-manage-enrol-avds-in-intune-2/</guid>
+      <guid>http://localhost/posts/what-is-aosp-how-to-use-android-emulators-to-configure-manage-enrol-avds-in-intune-2/</guid>
       <description>Scenarios Have you been in situations where you need to give demos on different Android OS or models and do not have actual hardware running Android to show different scenarios programs?</description>
       
     </item>
     
     <item>
       <title>Wrap Me UP!</title>
-      <link>http://localhost:1313/posts/wrap-me-up-2/</link>
+      <link>http://localhost/posts/wrap-me-up-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/wrap-me-up-2/</guid>
+      <guid>http://localhost/posts/wrap-me-up-2/</guid>
       <description>Mobile Application Management (MAM) allows you to manage and protect your organization’s data within an application.</description>
       
     </item>
     
     <item>
       <title>WWDC 2023: Apple&#39;s Leap into Next-Level Device Management - Part 1</title>
-      <link>http://localhost:1313/posts/wwdc-2023-apples-leap-into-next-level-device-management-part-1/</link>
+      <link>http://localhost/posts/wwdc-2023-apples-leap-into-next-level-device-management-part-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/wwdc-2023-apples-leap-into-next-level-device-management-part-1/</guid>
+      <guid>http://localhost/posts/wwdc-2023-apples-leap-into-next-level-device-management-part-1/</guid>
       <description>This year&#39;s Apple Worldwide Developers Conference (WWDC2023) was marked by numerous groundbreaking announcements.</description>
       
     </item>
     
     <item>
       <title>Zero Touch Onboarding &amp; Activation of Microsoft Defender for Endpoint</title>
-      <link>http://localhost:1313/posts/zero-touch-onboarding-activation-of-microsoft-defender-for-endpoint-2/</link>
+      <link>http://localhost/posts/zero-touch-onboarding-activation-of-microsoft-defender-for-endpoint-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/zero-touch-onboarding-activation-of-microsoft-defender-for-endpoint-2/</guid>
+      <guid>http://localhost/posts/zero-touch-onboarding-activation-of-microsoft-defender-for-endpoint-2/</guid>
       <description>Overview You can now configure your iOS devices to be silently onboarded and activated on Microsoft Defender for Endpoint without requiring interaction from the end user.</description>
       
     </item>
