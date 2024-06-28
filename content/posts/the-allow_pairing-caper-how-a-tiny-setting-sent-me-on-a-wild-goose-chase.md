@@ -1,5 +1,5 @@
 ---
-title: "The "allow_pairing" Caper: How a Tiny Setting Sent Me on a Wild Goose Chase"
+title: "The 'allow_pairing' Caper: How a Tiny Setting Sent Me on a Wild Goose Chase"
 date: 2024-02-14T13:49:52"
 draft: false
 tags: []
